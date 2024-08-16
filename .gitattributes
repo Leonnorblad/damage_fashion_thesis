@@ -1,0 +1,2 @@
+runs/202404211431_FasterRCNN_960/best.pth filter=lfs diff=lfs merge=lfs -text
+runs/202404211431_FasterRCNN_960/last.pth filter=lfs diff=lfs merge=lfs -text
