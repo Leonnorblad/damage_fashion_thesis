@@ -1,0 +1,10 @@
+# path: ? Test w/o specifying path
+train: images/train_damaged
+val: /images/train
+test: /images/test
+
+# Classes
+names:
+  0: Hole
+  1: Stain
+  2: TUD
